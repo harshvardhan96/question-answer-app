@@ -10,8 +10,9 @@
    - Run Nginx Webserver to accept and route request to Gunicorn.
 
 5. I have uploaded a video of a demo which I recorded on my local machine. The link to it is as follows:
+   https://drive.google.com/drive/folders/1hzKerrYlrJW6yoeBUZz5sNnQQSPDxR_Z?usp=sharing
 
-6. If you wish to run it on your local machine, install dependecies and then run the api.py file. You will need to use curl or Postman tool to send a post request to the running application. The sample JSON for the same should be as follows:
+7. If you wish to run it on your local machine, install dependecies and then run the api.py file. You will need to use curl or Postman tool to send a post request to the running application. The sample JSON for the same should be as follows:
 
 {
     "question": "updation_correction_in_pan_card"
